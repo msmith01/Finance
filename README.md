@@ -4,4 +4,4 @@ Scrapes Yahoo finance for IPO (Initial Public Offerings) daily data. The data go
 
 
 
-See J.R.Ritter for other IPO data.
+See J.R.Ritter for other IPO data. https://site.warrington.ufl.edu/ritter/ipo-data/
