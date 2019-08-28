@@ -15,8 +15,8 @@ I extended this research up to 2018:
  
  Note: code for the plots I will upload as soon as I find them on my hard drive ¯\\\_(ツ)_/¯.
 
-See J.R.Ritter for other IPO data. https://site.warrington.ufl.edu/ritter/ipo-data/
-See Tim Loughran and Jay Ritter IPO returns: https://site.warrington.ufl.edu/ritter/files/2016/06/why-has-IPO-Underpricing-Increased-Over-Time.pdf
+See J.R.Ritter for other [IPO data.](https://site.warrington.ufl.edu/ritter/ipo-data/)
+See Tim Loughran and Jay Ritter [IPO returns:](https://site.warrington.ufl.edu/ritter/files/2016/06/why-has-IPO-Underpricing-Increased-Over-Time.pdf)
 
 -  ¡Cuidado! - Careful: This is Yahoo finance free data, with open and close prices. There exists better resources for this kind of data (Bloomberg terminal, WRDS etc.).
 
