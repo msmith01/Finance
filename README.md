@@ -20,5 +20,5 @@ See Tim Loughran and Jay Ritter [IPO returns:](https://site.warrington.ufl.edu/r
 
 -  ¡Cuidado! - Careful: This is Yahoo finance free data, with open and close prices. There exists better resources for this kind of data (Bloomberg terminal, WRDS etc.).
 
-Note:  The money left on the table is defined as the difference between the closing price on the first day of trading and the offer price, multiplied by the number of shares sold. see [Money Left on the Table in IPOs by Firm, J.R.Ritter](https://site.warrington.ufl.edu/ritter/files/2019/08/Monnew.pdf)
+Note:  The money left on the table is defined as the difference between the closing price on the first day of trading and the offer price, multiplied by the number of shares sold. See [Money Left on the Table in IPOs by Firm, J.R.Ritter](https://site.warrington.ufl.edu/ritter/files/2019/08/Monnew.pdf)
 
