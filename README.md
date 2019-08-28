@@ -1,6 +1,6 @@
 # Yahoo IPO - Corporate Finance
 
-Scrapes Yahoo finance for IPO (Initial Public Offerings) daily data. The data goes as far back as 2000 and collects IPOs worldwide, I filter the data down to specific countries and compute the average one day return for the U.S. and compute the amount of money "left on the table"
+Scrapes Yahoo finance for IPO (Initial Public Offerings) daily data. The data goes as far back as 2000 and collects IPOs worldwide, I filter the data down to specific countries and compute the average one day return for the U.S. and compute the amount of money "left on the table".
 
 QUOTE: "In the 1980s, the average first-day return on initial public offerings (IPOs) was 7%. The
 average first-day return doubled to almost 15% during 1990-1998, before jumping to 65%
