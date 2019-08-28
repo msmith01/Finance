@@ -10,7 +10,7 @@ I extended this research up to 2018:
 
  - The *"yahoo_finance_IPOs_2000_2018.csv"* file contains the data scraped from the yahoo finance website from 2000 to 2018.
  - The *"Yahoo_finance_IPO_graphs.pdf"* file contains plots for 3 different regions "Hong-Kong", "Shanghai" and the "U.S." - I tried to keep consistent with J.R.Ritter plots here: ([downloadable pptx](https://site.warrington.ufl.edu/ritter/files/2019/02/IPOs_US_1980-2018.pptx))
- - The *"JR_Ritter_IPO_graphs.pdf"* uses the exact same U.S. data that J.R.Ritter collects.
+ - The *"JR_Ritter_IPO_graphs.pdf"* uses the exact same U.S. data that J.R.Ritter collects and should be close to the results here: ([downloadable pptx](https://site.warrington.ufl.edu/ritter/files/2019/02/IPOs_US_1980-2018.pptx)).
  - The *"Monthly_bloomberg_graphs.pdf"* uses Bloomberg terminal IPO data (2018) for a number of markets, China, Hong-Kong, U.S., Australia, Canada, Great Britain, Japan and Taiwan.
  
  Note: code for the plots I will upload as soon as I find them on my hard drive ¯\\\_(ツ)_/¯.
