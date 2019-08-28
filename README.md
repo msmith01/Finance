@@ -13,7 +13,7 @@ I extended this research up to 2018:
  - The "JR_Ritter_IPO_graphs.pdf" uses the exact same U.S. data that J.R.Ritter collects.
  - The "Monthly_bloomberg_graphs.pdf" uses Bloomberg terminal IPO data (2018) for a number of markets, China, Hong-Kong, U.S., Australia, Canada, Great Britain, Japan and Taiwan.
  
- Note: code for the plots I will upload as soon as I find them on my hard drive ¯\_(ツ)_/¯.
+ Note: code for the plots I will upload as soon as I find them on my hard drive ¯\\\_(ツ)_/¯.
 
 See J.R.Ritter for other IPO data. https://site.warrington.ufl.edu/ritter/ipo-data/
 See Tim Loughran and Jay Ritter IPO returns: https://site.warrington.ufl.edu/ritter/files/2016/06/why-has-IPO-Underpricing-Increased-Over-Time.pdf
