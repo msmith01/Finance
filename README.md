@@ -2,9 +2,9 @@
 
 Scrapes Yahoo finance for IPO (Initial Public Offerings) daily data. The data goes as far back as 2000 and collects IPOs worldwide, I filter the data down to specific countries and compute the average one day return for the U.S. and compute the amount of money "left on the table".
 
-QUOTE: "In the 1980s, the average first-day return on initial public offerings (IPOs) was 7%. The
+__Quote:__ *"In the 1980s, the average first-day return on initial public offerings (IPOs) was 7%. The
 average first-day return doubled to almost 15% during 1990-1998, before jumping to 65%
-during the internet bubble years of 1999-2000 and then reverting to 12% during 2001-2003."
+during the internet bubble years of 1999-2000 and then reverting to 12% during 2001-2003."*
 
 I extended this research up to 2018:
 
